@@ -1,4 +1,0 @@
-C:\Users\Emre Yalcin\OneDrive\Masaüstü\MPI_Source_Codes\MPI_Giris\Debug\MPI_Giris.exe
-C:\Users\DELL\Dropbox\2023-Bahar\ParallelProgramming\MPI_Source_Codes\MPI_Giris\Debug\MPI_Giris.exe
-C:\Users\Emre Yalcin\Dropbox\2023-Bahar\ParallelProgramming\MPI_Source_Codes\MPI_Giris\Debug\MPI_Giris.exe
-C:\Users\DELL\Dropbox\2023-Bahar\BİL4010-Paralel Programlama\Sources\MPI_Source_Codes\MPI_Giris\Debug\MPI_Giris.exe
